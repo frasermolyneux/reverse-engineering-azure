@@ -1,0 +1,1 @@
+az group export --name rg-reverse-bicep > export.json
